@@ -372,6 +372,8 @@ Karpathy’s `autoresearch` is a strong signal for this direction: repeated expe
 ### AI Operating Systems
 If AI operating systems become real, memory will be one of their most important internal services: state, retrieval, skill reuse, preferences, scheduling, and permissions. MemGPT already framed part of this future through tiered memory management. :contentReference[oaicite:25]{index=25}
 
+### Enterprise AI
+support ops, sales ops, procurement, compliance, internal copilots, DevOps runbooks
 ---
 
 ## How we survive among frontier models, startups, and products
