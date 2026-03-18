@@ -103,7 +103,7 @@ So the next layer emerged:
 
 That leads to:
 
-# 2) SOFTWARE
+#  SOFTWARE
 
 ---
 
