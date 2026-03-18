@@ -213,7 +213,7 @@ So the next leap was:
 
 That leads to:
 
-# 3) AI
+#  AI
 
 ---
 
@@ -429,41 +429,11 @@ Problem created = hallucination, bias, opacity, safety
 
 ---
 
-# Suggested Repo Structure
 
-```text
-digital-evolution-stack/
-├── README.md
-└── images/        (optional, if you later convert diagrams to PNG/SVG)
 ```
 
 ---
 
-# Why This Works Well as a GitHub README
 
-GitHub renders:
-
-- Markdown headings
-- bullet points
-- blockquotes
-- code fences
-- ASCII diagrams inside ```text blocks
-
-That means your diagrams stay aligned and readable.
-
----
-
-# Optional Next Upgrade
-
-If you want this to look even better later, you can:
-
-- convert the diagrams into **SVGs**
-- store them in `/images`
-- embed them in the README
-- add a table of contents
-- add links to related essays like:
-  - `search-engine.md`
-  - `software.md`
-  - `ai-systems.md`
 
 ---
